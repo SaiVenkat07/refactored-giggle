@@ -112,7 +112,7 @@ npm install express puppeteer body-parser nodemon
 
 ## **Code Walkthrough**
 
-### 1. Entry Point (`app.js`)
+### 1. Entry Point (`index.js`)
 - Sets up the Express server.
 - Defines the `/api/crawler` route.
 
